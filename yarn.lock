@@ -7,6 +7,11 @@
   resolved "https://repo.huaweicloud.com/repository/npm/@babel/parser/-/parser-7.16.4.tgz#d5f92f57cf2c74ffe9b37981c0e72fee7311372e"
   integrity sha512-6V0qdPUaiVHH3RtZeLIsc+6pDhbYzHR8ogA8w+f+Wc77DuXto19g2QUwveINoS34Uw+W8/hQDGJCx+i4n7xcng==
 
+"@icon-park/vue-next@^1.3.5":
+  version "1.3.5"
+  resolved "https://repo.huaweicloud.com/repository/npm/@icon-park/vue-next/-/vue-next-1.3.5.tgz#4c9cbe6c77c4f4dadbe60fd26b86b10ed4ad186b"
+  integrity sha512-alB051w2HKBcSo4hzKgWwLLoPCZIUwiaHEW5d2QmMUNefamKPIAt1JZ7heiJahRs5KN+1/Dkj+L9e8/2ccZsGw==
+
 "@vitejs/plugin-vue@^1.10.2":
   version "1.10.2"
   resolved "https://repo.huaweicloud.com/repository/npm/@vitejs/plugin-vue/-/plugin-vue-1.10.2.tgz#d718479e2789d8a94b63e00f23f1898ba239253a"

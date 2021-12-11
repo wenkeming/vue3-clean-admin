@@ -1,5 +1,5 @@
 <template>
-    首页
+    普通列表
 </template>
 <script setup>
 

@@ -1,5 +1,5 @@
 <template>
-    首页
+    表格
 </template>
 <script setup>
 

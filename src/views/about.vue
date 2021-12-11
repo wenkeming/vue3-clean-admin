@@ -1,5 +1,5 @@
 <template>
-    首页
+    关于
 </template>
 <script setup>
 

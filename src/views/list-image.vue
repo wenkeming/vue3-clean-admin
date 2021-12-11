@@ -1,5 +1,5 @@
 <template>
-    首页
+    图片
 </template>
 <script setup>
 

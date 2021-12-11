@@ -1,0 +1,19 @@
+@import './_var.less';
+
+*{
+    transition: background-color .5s, color .5s, box-shadow .5s;
+}
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: var(--border);
+    font-size: 14px;
+}
+#app{
+    height: 100%;
+    display: grid;
+    grid-template-columns: 294px 1fr;
+    grid-template-rows: 80px 1fr;
+    column-gap: 1px;
+}

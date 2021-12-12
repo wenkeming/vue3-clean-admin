@@ -9,7 +9,7 @@ function resolve(dir) {
 export default defineConfig({
     plugins: [vue()],
     build: {
-        outDir: 'doc'
+        outDir: 'docs'
     },
     base: './',
     resolve: {
